@@ -1,0 +1,4 @@
+com\yzz\user\service\LoginService.class
+com\yzz\user\App.class
+com\yzz\user\dao\IRegisterDao.class
+com\yzz\user\service\RegisterService.class

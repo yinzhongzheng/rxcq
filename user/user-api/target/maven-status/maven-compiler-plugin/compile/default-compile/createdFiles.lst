@@ -1,0 +1,5 @@
+com\yzz\user\api\dto\LoginModel.class
+com\yzz\user\api\ILogin.class
+com\yzz\user\api\dto\RejisterRequestModel.class
+com\yzz\user\api\dto\RegisterResponseModel.class
+com\yzz\user\api\IRegister.class

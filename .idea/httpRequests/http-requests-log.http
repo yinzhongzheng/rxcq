@@ -1,0 +1,18 @@
+GET http://localhost/index/
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost/index/
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost/a.html
+Accept: */*
+Cache-Control: no-cache
+
+###
+
