@@ -22,9 +22,6 @@
         <xbean-spring.version>4.5</xbean-spring.version>
         <activemq-pool.version>5.9.0</activemq-pool.version>
         <commons-pool2.version>2.4.2</commons-pool2.version>
-        <mybatis-spring.version>1.0.1</mybatis-spring.version>
-        <mybatis.version>3.0.5</mybatis.version>
-        <mysql-connector-java.version>5.1.8</mysql-connector-java.version>
         <commons-lang3.version>3.1</commons-lang3.version>
         <guava.version>18.0</guava.version>
         <fastjson.version>1.2.16</fastjson.version>
