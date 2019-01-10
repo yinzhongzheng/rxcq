@@ -1,7 +1,7 @@
 package com.yzz.user.api;
 
+import com.yzz.user.api.dto.RegisterRequestModel;
 import com.yzz.user.api.dto.RegisterResponseModel;
-import com.yzz.user.api.dto.RejisterRequestModel;
 
 /**
  * describe:
@@ -17,7 +17,7 @@ public interface IRegister {
      * @return
      * @throws Exception
      */
-    RegisterResponseModel doRegister(RejisterRequestModel request) throws Exception;
+    RegisterResponseModel doRegister(RegisterRequestModel request) throws Exception;
 
 
 }
