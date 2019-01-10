@@ -7,7 +7,532 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="831ca3a3-36e9-4867-b55b-6bd54c1675db" name="Default Changelist" comment="框架搭建">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/css/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/css/ie-css3.htc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/css/login/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/css/login/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/css/register/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f53.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2f9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2l1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2l2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2l3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/2l4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f88.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3f9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/3fleft.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/404.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4f9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4l1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4l2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4l3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/4l4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f53.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5f9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5l1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5l2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5l3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/5l4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/6f1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/6f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/6f3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/6f4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/6f48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/6f49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/6f5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/6f50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/6f51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/6f52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/6f53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/6f54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/6f55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/6f56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/6f57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/6f58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/6f59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/6f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/6f7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/6l1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/6l2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/6l3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/6l4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/7f1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/7f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/7f3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/7f4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/7f48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/7f49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/7f5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/7f50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/7f51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/7f52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/7f53.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/7f54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/7f55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/7f56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/7f57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/7f58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/7f59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/7f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/7f7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/7l1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/7l2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/7l3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/7l4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/8f1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/8f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/8f3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/8f4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/8f5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/8f58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/8f59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/8f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/8f7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/8l1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/8l2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/8l3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/8l4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/a1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/a3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/a4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/aa.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/all.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/b9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/bjd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/bot1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/bot2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/bot3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/bot4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/c1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/c10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/c11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/c12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/c2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/c3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/c4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/c5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/c6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/c7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/c8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/c9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/d1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/d2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/d4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/d5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/d6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/dd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/didian.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/e1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/e10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/e11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/e12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/e13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/e14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/e15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/e16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/e17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/e18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/e19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/e2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/e3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/e4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/e5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/e6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/e7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/e8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/e9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/ee1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/erwei.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/hua.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/hua.xht" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/login/20161209115754_5628.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/login/iconfont-duanxin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/login/iconfont-psw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/login/iconfont-shouji.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/login/iconfont-yanzhengma.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/login/iconfont-yonghu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/login/log_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/login/login-code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/login/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/login/zhishi2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/lou.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n53.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/n9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/nn1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/nn2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/nn3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/nn4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/register/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/register/error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/register/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/register/qiang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/register/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/register/ruo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/register/zhong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/s10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/s11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/s12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/s13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/s2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/s3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/s4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/s5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/s6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/s7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/s8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/s9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/vip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/xing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/xuanfu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/z.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/z1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/z2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/z3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/z4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/z5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/z6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view-home/src/main/webapp/resources/images/zz.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/user-provider/src/main/java/com/yzz/user/dao/IRegisterDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/user/user-provider/src/main/java/com/yzz/user/dao/mapper/IRegisterDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/user-provider/src/main/java/com/yzz/user/dao/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user/user-provider/src/main/java/com/yzz/user/dao/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/user-provider/src/main/resources/META-INF/spring/service-common.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user/user-provider/src/main/resources/META-INF/spring/service-common.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/view-mh/src/main/webapp/resources/plugins/lightbox2/js/lightbox-plus-jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/view-mh/src/main/webapp/resources/plugins/lightbox2/js/lightbox-plus-jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/view-mh/src/main/webapp/resources/plugins/wx/ueditor/third-party/video-js/video.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/view-mh/src/main/webapp/resources/plugins/wx/ueditor/third-party/video-js/video.dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/view-protal/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/view-home/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/view-protal/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/view-protal/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/view-protal/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/view-protal/target/view-protal-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/view-protal/view-protal.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/user/target/" />
     <ignored path="$PROJECT_DIR$/user/user-provider/target/" />
@@ -30,98 +555,25 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user/user-provider/src/main/java/com/yzz/user/service/LoginService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/view-mh/src/main/java/com/yzz/view/oa/controller/IndexController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="46" column="44" selection-start-line="46" selection-start-column="44" selection-end-line="46" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/view-mh/src/main/webapp/WEB-INF/views/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2037">
-              <caret line="97" column="27" selection-start-line="97" selection-start-column="27" selection-end-line="97" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/view-mh/src/main/webapp/resources/js/MD5.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/view-mh/src/main/webapp/resources/js/function.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/view-mh/src/main/webapp/WEB-INF/views/index.html">
+        <entry file="file://$PROJECT_DIR$/web/view-home/src/main/webapp/resources/css/login/base.css">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/view-mh/src/main/resources/spring/applicationContext.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="62" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/view-mh/src/main/java/com/yzz/view/oa/controller/LoginIntercept.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/view-mh/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-start-column="8" selection-end-column="8" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -144,7 +596,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/user/user-provider/src/main/resources/META-INF/spring/service-common.xml" />
         <option value="$PROJECT_DIR$/user/a.xml" />
         <option value="$PROJECT_DIR$/user/user-api/src/main/resources/META-INF/client/login-consumer.xml" />
         <option value="$PROJECT_DIR$/common/src/main/java/com/yzz/common/Code.java" />
@@ -158,7 +609,6 @@
         <option value="$PROJECT_DIR$/user/user-api/pom.xml" />
         <option value="$PROJECT_DIR$/view-mh/pom.xml" />
         <option value="$PROJECT_DIR$/web/view-protal/pom.xml" />
-        <option value="$PROJECT_DIR$/parent-web/pom.xml" />
         <option value="$PROJECT_DIR$/test/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/web/pom.xml" />
@@ -177,6 +627,9 @@
         <option value="$PROJECT_DIR$/web/view-mh/src/main/resources/spring/applicationContext.xml" />
         <option value="$PROJECT_DIR$/web/view-mh/src/main/webapp/resources/js/function.js" />
         <option value="$PROJECT_DIR$/web/view-mh/src/main/webapp/WEB-INF/views/login.html" />
+        <option value="$PROJECT_DIR$/parent-web/pom.xml" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/user/user-provider/src/main/resources/META-INF/spring/service-common.xml" />
       </list>
     </option>
   </component>
@@ -209,17 +662,12 @@
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="rxcq" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="view-mh" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="rxcq" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="view-mh" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="rxcq" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
         </path>
       </expand>
       <select />
@@ -229,7 +677,7 @@
     <option name="jreName" value="#JAVA_HOME" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -259,7 +707,52 @@
               <item name="rxcq" type="b2602c69:ProjectViewProjectNode" />
               <item name="rxcq" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="view-home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rxcq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rxcq" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="view-home" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rxcq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rxcq" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="view-home" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rxcq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rxcq" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="view-home" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rxcq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rxcq" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="view-mh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rxcq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rxcq" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="view-mh" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rxcq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rxcq" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="view-mh" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -277,21 +770,22 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15059222" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\idea_study\rxcq\user\user-provider\src\main\java\com\yzz\user\dao\mapper" />
       <recent name="E:\idea_study\rxcq\web" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.yzz.common" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea_study\rxcq\web\view-home\src\main\webapp\resources" />
       <recent name="E:\idea_study\rxcq\web\view-mh\src\main\resources\spring" />
       <recent name="E:\idea_study\rxcq\web\view-mh\src\main\webapp" />
       <recent name="E:\idea_study\rxcq\user\user-provider\src\main\resources" />
       <recent name="E:\idea_study\rxcq\user\user-provider\src\main\java" />
-      <recent name="E:\idea_study\rxcq\user\user-api\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -526,7 +1020,10 @@
       <workItem from="1546935830158" duration="2991000" />
       <workItem from="1546952122297" duration="3069000" />
       <workItem from="1546955239870" duration="11041000" />
-      <workItem from="1547000805711" duration="2772000" />
+      <workItem from="1547000805711" duration="10725000" />
+      <workItem from="1547041001650" duration="1102000" />
+      <workItem from="1547081635445" duration="1536000" />
+      <workItem from="1547083770168" duration="233000" />
     </task>
     <task id="LOCAL-00001" summary="框架搭建">
       <created>1546966066823</created>
@@ -602,12 +1099,44 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19873000" />
+    <option name="totallyTimeSpent" value="30697000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31060606" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27651516" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32838285" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848485" weight="0.37458745" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.7269737" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" weight="0.32838285" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50151515" side_tool="true" weight="0.32673267" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49848485" weight="0.32673267" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.36348686" />
+      <window_info anchor="bottom" id="REST Client" order="14" weight="0.6167763" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32894737" />
+      <window_info anchor="bottom" id="Java Enterprise" order="16" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32954547" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.20227273" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37727273" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -615,7 +1144,7 @@
       <window_info id="Web" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924242" weight="0.6052632" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848485" weight="0.37458745" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.7269737" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -624,7 +1153,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Spring" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007576" side_tool="true" weight="0.5759076" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50151515" side_tool="true" weight="0.37458745" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Application Servers" order="13" weight="0.36348686" />
       <window_info anchor="bottom" id="REST Client" order="14" weight="0.6167763" />
@@ -634,10 +1163,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32954547" />
       <window_info anchor="right" id="Maven" order="5" weight="0.20227273" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -651,63 +1180,12 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/user/user-provider/src/main/java/com/yzz/user/dao/IRegisterDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user/user-provider/src/main/java/com/yzz/user/dao/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/com/yzz/web-parent/1.0-SNAPSHOT/web-parent-1.0-SNAPSHOT.pom" />
-    <entry file="file://$PROJECT_DIR$/parent-dubbo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="140" column="39" selection-start-line="140" selection-start-column="33" selection-end-line="140" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.16.RELEASE/spring-core-4.3.16.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.16.RELEASE/spring-beans-4.3.16.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.16.RELEASE/spring-context-support-4.3.16.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-252" />
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.7/dubbo-2.5.7.pom">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/spring-orm/4.3.16.RELEASE/spring-orm-4.3.16.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.pom">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/view-protal/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web/view-protal/pom.xml" />
     <entry file="file://$PROJECT_DIR$/test/pom.xml" />
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
           <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user/user-provider/src/main/resources/META-INF/spring/service-common.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-327">
-          <caret line="11" column="64" lean-forward="true" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
         </state>
       </provider>
     </entry>
@@ -722,13 +1200,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
           <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parent-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4958">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -754,13 +1225,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="28" column="36" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user/user-provider/src/main/resources/META-INF/spring/service-provider.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="39" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -878,16 +1342,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user/user-provider/src/main/java/com/yzz/user/service/LoginService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/view-mh/src/main/java/com/yzz/view/oa/controller/IndexController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
@@ -902,13 +1356,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2037">
           <caret line="97" column="27" selection-start-line="97" selection-start-column="27" selection-end-line="97" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/view-mh/src/main/webapp/resources/js/MD5.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -943,12 +1390,115 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/web/view-mh/src/main/webapp/resources/js/MD5.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="252">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/user-provider/src/main/java/com/yzz/user/service/LoginService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/user-provider/src/main/resources/META-INF/spring/service-provider.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parent-dubbo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1317">
+          <caret line="180" selection-start-line="180" selection-end-line="180" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parent-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/user-api/src/main/resources/META-INF/client/login-consumer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parent-web/parent-web.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1134">
+            <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/user-provider/src/main/java/com/yzz/user/dao/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/user-provider/src/main/java/com/yzz/user/dao/mapper/IRegisterDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.0.1/mybatis-spring-1.0.1.jar!/org/mybatis/spring/mapper/MapperScannerConfigurer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+          <folding>
+            <element signature="e#2119#2120#0" expanded="true" />
+            <element signature="e#2165#2166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.0.1/mybatis-spring-1.0.1.jar!/org/mybatis/spring/SqlSessionFactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="84" column="16" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/view-home/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/user-provider/src/main/resources/META-INF/spring/service-common.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/view-home/src/main/webapp/resources/css/login/base.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">

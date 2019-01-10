@@ -10,7 +10,6 @@
         <module name="user-api" />
         <module name="user-provider" />
         <module name="view-mh" />
-        <module name="view-protal" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">

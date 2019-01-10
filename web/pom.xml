@@ -13,6 +13,7 @@
     <modules>
         <module>view-mh</module>
         <module>view-protal</module>
+        <module>view-home</module>
     </modules>
 
     <dependencyManagement>

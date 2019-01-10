@@ -34,13 +34,13 @@
     <bean id="userSqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
         <property name="dataSource" ref="userDataSource" />
         <property name="typeAliasesPackage"
-                  value="com.gupao.vip.mic.dubbo.dal.entity" />
-        <property name="mapperLocations" value="classpath*:com/yzz/*Mapper.xml" />
+                  value="com.yzz.user.dao.entity" />
+        <property name="mapperLocations" value="classpath*:com/yzz/user/dao/mapper/*.xml" />
     </bean>
 
     <bean name="userMapperScannerConfigurer" class="org.mybatis.spring.mapper.MapperScannerConfigurer">
         <property name="basePackage"
-                  value="com.gupao.vip.mic.dubbo.dal.persistence" />
+                  value="com.yzz.user.dao.mapper" />
         <property name="sqlSessionFactory" ref="userSqlSessionFactory" />
     </bean>
 

@@ -9,8 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/user/user.iml" filepath="$PROJECT_DIR$/user/user.iml" />
       <module fileurl="file://$PROJECT_DIR$/user/user-api/user-api.iml" filepath="$PROJECT_DIR$/user/user-api/user-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/user/user-provider/user-provider.iml" filepath="$PROJECT_DIR$/user/user-provider/user-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/view-home/view-home.iml" filepath="$PROJECT_DIR$/web/view-home/view-home.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/view-mh/view-mh.iml" filepath="$PROJECT_DIR$/web/view-mh/view-mh.iml" />
-      <module fileurl="file://$PROJECT_DIR$/web/view-protal/view-protal.iml" filepath="$PROJECT_DIR$/web/view-protal/view-protal.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
     </modules>
   </component>
